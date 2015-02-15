@@ -74,10 +74,4 @@ after_script:
   - drush status
 
 notifications:
-# add your IRC here
-#  irc: irc.freenode.org#{CHANNEL}
-
-#  email: false
-#  slack:
-#    rooms:
-# add your slack rooms here
+  slack: cgldevel:mafX59LwGk1TnK86PUqQg3hy
